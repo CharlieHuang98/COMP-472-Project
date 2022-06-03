@@ -5,7 +5,7 @@ import random
 
 dataDir ="insert folder path"
 categories = ["WithoutMask", "Clothmask", " Surgicalmask", "N95Mask"]
-imgSize = 100
+imgSize = 255
 training_data = []
 
 
