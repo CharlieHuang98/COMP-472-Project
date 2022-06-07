@@ -2,6 +2,7 @@ import numpy as np
 import os
 import cv2
 import random
+from tqdm import tqdm
 
 dataDir ="insert folder path"
 categories = ["WithoutMask", "ClothMask", "SurgicalMask", "N95Mask"]
